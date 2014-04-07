@@ -1,4 +1,4 @@
-coderbyte-challenges
+coderbyte-solutions
 ====================
 
 This is a collection of solutions to the easy challenges on coderbyte.com as I complete them.
